@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='biocomp',
-    version='0.1.9',
+    version='0.2.1',
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     install_requires=[
