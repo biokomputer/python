@@ -1,0 +1,7 @@
+pyparsing
+matplotlib
+numpy
+pyyaml
+graphviz
+setuptools
+wheel
