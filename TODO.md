@@ -1,7 +1,6 @@
 # TODO
 
 + unit tests
-+ move sourcecode to python https://github.com/biokomputer/python
 
 
  python main.py 
