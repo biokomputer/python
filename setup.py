@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="biocomp",
-    version="0.2.1",
+    version="0.2.2",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     install_requires=[
@@ -15,7 +15,7 @@ setup(
     },
     author="Tom Sapletta",
     author_email="info@softreck.dev",
-    description="Biocomputing library",
+    description="BioComp  'Coded Life' to propozycja języka domenowo-specyficznego (DSL) do edukacji i wdrażania biocomputingu ",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://www.biokomputer.pl",
